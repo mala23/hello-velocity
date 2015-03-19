@@ -7,3 +7,7 @@
 meteor-platform
 autopublish
 insecure
+underscore
+xolvio:cucumber
+velocity:console-reporter
+iron:router
